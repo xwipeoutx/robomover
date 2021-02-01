@@ -1,0 +1,15 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "moduleResolution": "node"
+    },
+    "types": [
+        "babylonjs",
+        "babylonjs-loaders",
+        ""
+    ],
+    "include": [
+        "src/**/*"
+    ]
+}

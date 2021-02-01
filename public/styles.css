@@ -1,0 +1,18 @@
+
+canvas {
+    outline: none;
+    float: left;
+}
+
+.content {
+    padding: 1rem;
+    clear: both;
+}
+
+.footer {
+    padding: 1rem;
+}
+
+.game > div{
+    padding: 1rem;
+}
